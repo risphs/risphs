@@ -5,5 +5,5 @@
     I have many intrests within computers including: programming, electronics, networking and more.
 </p>
 <p align='center'>
-    **HTML, CSS, Python, Java, Javascript and C#**
+    HTML, CSS, Python, Java, Javascript and C#
 </p>
