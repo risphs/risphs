@@ -7,6 +7,3 @@
 <p align='center'>
   I program in HTML, CSS, Python, Java, Javascript and C#.
 </p>
-<p align='center'>
-  Welcome to my Github:
-</p>
