@@ -5,5 +5,8 @@
   I have many intrests within computers including programming, electronics, networking and more.
 </p>
 <p align='center'>
-  I can program in HTML, CSS, Python, Java, Javascript and C#. So welcome to my GitHub.
+  I program in HTML, CSS, Python, Java, Javascript and C#.
+</p>
+<p align='center'>
+  Welcome to my Github:
 </p>
