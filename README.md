@@ -7,3 +7,6 @@
 <p align='center'>
     HTML, CSS, Python, Java, Javascript and C#
 </p>
+<p align='center'>
+ ><img src="https://lanyard.cnrad.dev/api/721717126523781240">
+</p>
