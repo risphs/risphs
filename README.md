@@ -8,5 +8,5 @@
  <img src="https://lanyard.cnrad.dev/api/721717126523781240">
 </p>
 <p align='center'>
-    HTML, CSS, Python, Java, Javascript and C#
+    HTML, CSS, Python, Java, Javascript, Typescript and C#
 </p>
