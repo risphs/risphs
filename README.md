@@ -5,8 +5,5 @@
     I have many intrests within computers including: programming, electronics, networking and more.
 </p>
 <p align='center'>
- <img src="https://lanyard.cnrad.dev/api/721717126523781240">
-</p>
-<p align='center'>
-    HTML, CSS, Python, Java, Javascript, Typescript and C#
+    HTML, CSS, Python, Java, Javascript, Typescript
 </p>
